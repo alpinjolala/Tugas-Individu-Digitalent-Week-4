@@ -61,6 +61,6 @@ button:hover {
     transform: scale(1.1);
 }
 
-.operator:hover, .equal-sign:hover {
+.operator:hover, .equal-sign:hover, .calculator-screen:hover {
     background-color: blue;
 }
